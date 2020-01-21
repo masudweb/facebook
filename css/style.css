@@ -1,0 +1,258 @@
+body{
+	margin:0px;
+}
+
+.container{
+	padding: 5px 12%;
+}
+header{
+	background-color: #3C5A99;
+	overflow: hidden;
+	padding: 10px 0px;
+}
+.logo{
+	float: left;
+	padding: 10px 0 5px 0;
+}
+.logo a{
+
+	text-decoration: none;
+	color: #fff;
+	font-size: 40px;
+	font-weight: 900;
+}
+
+.login{
+	
+	width: 45%;
+	float: right;
+
+}
+
+.login .input {
+	float: left;
+	font-size: 14px;
+	width: 40%;
+	color: #fff;
+	padding: 0px 12px;
+	box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.login .submit {
+	float: left;
+	width: 20%;
+	padding: 0px 12px;
+	box-sizing: border-box;
+	
+}
+.input input{
+
+	margin: 4px 0px;
+	padding: 2px;
+	width: 100%;
+
+}
+.input  a{
+	text-decoration: none;
+	display: block;
+	color: #ffffff5c;
+
+
+}
+
+.input  a:hover {
+	text-decoration: underline;
+	
+
+}
+
+.submit input{
+	    margin-top: 22px;
+    background: #4364adfa;
+    border: 1px solid #0000004d;
+    border-radius: 2px;
+    color: #fff;
+    padding: 3px 6px;
+    
+}
+.submit input:hover{
+	   
+    background: #365899;
+
+}
+  @media (max-width: 920px) {
+
+  	.container{
+	padding: 5px 5%;
+}
+		.login{
+	
+	width: 100%;
+	float: left;
+
+}
+
+ 
+	
+  }
+
+
+     
+ .full-body{
+ 	 background: url(/rsrc.php/v3/yB/r/TwAHgQi2ZPB.png) 0 bottom repeat-x;
+    background: linear-gradient(white, #D3D8E8);
+    overflow: hidden;
+
+ }   
+
+ .body-left{
+ 	float: left;
+ 	width: 50%;
+
+ }
+ .body-left p{
+ 	color: #0e385f;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 29px;
+    margin-top: 40px;
+    width: 450px;
+    word-spacing: -1px;
+ }
+ .body-left img{}
+
+ .body-right{ 
+ 		width: 50%;
+ 	float: right;
+ 	padding: 0 5%;
+ 	box-sizing: border-box;
+  }
+
+   @media (max-width: 920px) {
+
+ .body-left{
+ 	
+ 	width: 100%;
+ 	float: left;
+
+ }
+ 
+  .body-right{ 
+ 		width: 100%;
+ 	float: left;
+ 	padding: 0%;
+ 	
+  }
+
+	
+  }
+
+ .body-right h1{
+ 	padding-top: 10px; 
+ 	line-height: 0px;
+ 	color: #333;
+ 	font-weight: 600;
+ 	font-size: 36px;
+ }
+ .body-right p{
+ 	
+ 	color: #1d2129;
+    font-size: 20px;
+ }
+
+ .namesur input{
+ 	width: 48%;
+ 	margin: 5px 0;
+ 	padding: 12px;
+ 	box-sizing: border-box;
+ 	border: 1px solid #BDC7D8;
+ 	border-radius: 5px;
+ }
+
+ .emailpass input{
+ 	margin: 5px 0;
+ 	width: 100%;
+ 	padding: 12px;
+ 	box-sizing: border-box;
+ 	border: 1px solid #BDC7D8;
+ 	border-radius: 5px;
+ }
+ .birthday select{
+ 	padding: 5px;
+ 	border: 1px solid #BDC7D8;
+ }
+.birthday p, .gender-sec p{
+	color: #90949C;
+	font-weight: bold;;
+}
+  .gender-sec {
+ 	font-size: 20px;
+ 	
+ }
+ .term-policy{
+ 	
+ 	line-height: 15px;
+ }
+ .term-policy a{
+ 	
+ 	text-decoration: none;
+	
+ }
+  .term-policy a:hover{
+ 	
+ 	text-decoration: underline;
+
+ 	 }
+.sub-button{}
+.sub-button input{
+	    color: #fff;
+    background: #6BA757;
+    padding: 12px 65px;
+    border-radius: 5px;
+    border: 1px solid #585454;
+}
+.sub-button input:hover{
+	 opacity: .9;
+}
+.createpage {
+	font-size: 18px !important;
+
+}
+.createpage a{
+	text-decoration: none;
+}
+ .createpage a:hover{
+
+text-decoration: underline;
+
+ }
+ footer{}
+ footer a{
+ 	    text-decoration: none;
+    color: #36589ad1;
+    padding: 10px;
+    font-size: 14px;
+ }
+
+  footer a:hover{
+ 	text-decoration: underline;
+
+ }
+ .footer-first{
+ 	padding: 40px 0px 10px 0px;
+ 	border-bottom: 1px solid #D5DAE9;
+ }
+ .footer-second{
+ 	padding: 10px 0px 30px 0px;
+ 	
+ }
+
+ .footer-second p{
+ 	margin-top: 20px;
+ 	margin-bottom: 0px;
+ 	padding-bottom: 0px;
+ 	color: #90949C;
+ 	font-size: 12px;
+ 	font-weight: bold;
+ }
